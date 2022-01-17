@@ -1,6 +1,6 @@
-# Hello! I am Zel!
-- 👋 Hi, I’m @zelxd
+# Hello! I am Zelr!
+- 👋 Hi, I’m @ZelrDev
 - 👀 I’m interested in React
 - 🌱 I’m currently learning Web Development & C#
 
-![Zel's github stats](https://github-readme-stats.vercel.app/api?username=zelxd)
+![Zelr's github stats](https://github-readme-stats.vercel.app/api?username=ZelrDev)
