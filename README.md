@@ -1,4 +1,4 @@
-# 👋 Hello! I am [Zelr](https://zelr.me)!
+# 👋 Hello! I am [Zelr](https://portfolio-zelr.vercel.app)!
 
 ## Technologys
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwindcss)
