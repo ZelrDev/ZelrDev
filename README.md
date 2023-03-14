@@ -1,4 +1,4 @@
-# 👋 Hello! I am [Zelr](https://portfolio-zelr.vercel.app)!
+# 👋 Hello! I am [Veloi](https://veloi.me)!
 
 ## Technologys
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwindcss)
@@ -26,8 +26,8 @@
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwindcss)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZelrDev&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veloii&hide=TeX&layout=compact)
 
-![Zelr's github stats](https://github-readme-stats.vercel.app/api?username=ZelrDev)
+![Velois's github stats](https://github-readme-stats.vercel.app/api?username=veloii)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=zelrdev.zelrdev)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=veloii.veloii)
